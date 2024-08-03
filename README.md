@@ -1,1 +1,1 @@
-# SkinCancerUsingImageEmbeddings
+# SkinCancerBinaryClassificationUsingImageEmbeddings
